@@ -30,7 +30,7 @@ DEBUG = True
 #change to False to reduce server fetching time
  
 # ALLOWED_HOSTS = ['smswithdjango.herokuapp.com']
-ALLOWED_HOSTS = ['127.0.0.1']  # Not recommended but useful in dev mode
+ALLOWED_HOSTS = ['.vercel.app']  # Not recommended but useful in dev mode
 
 
 # Application definition
