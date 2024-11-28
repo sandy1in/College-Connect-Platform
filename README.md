@@ -9,4 +9,6 @@
 ![student_cms](https://github.com/sandy1in/College-Management-System/assets/103809326/a72bd598-dd64-4277-ae7b-90fdca1025af)
 
 ## Personalized Notifications
-
+![notifications](https://github.com/sandy1in/College-Connect-Platform/blob/master/notifications.png)
+## Feedback
+![feedback](https://github.com/sandy1in/College-Connect-Platform/blob/master/feedback.png)
