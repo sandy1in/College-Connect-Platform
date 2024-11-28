@@ -1,4 +1,4 @@
-# College-Management-System
+# COLLEGE-CONNECT-PLATFORM
 
 - **A robust Application developed using the Python-Django framework, HTML, CSS, and JS. 
 - **This comprehensive system includes dedicated panels for Staff, Students, and Administrators, offering functionalities such as course, subject, and
