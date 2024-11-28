@@ -1,7 +1,7 @@
 # College-Management-System
 
-A robust Application developed using the Python-Django framework, HTML, CSS, and JS. This comprehensive system
-includes dedicated panels for Staff, Students, and Administrators, offering functionalities such as course, subject, and
+- **A robust Application developed using the Python-Django framework, HTML, CSS, and JS. 
+- **This comprehensive system includes dedicated panels for Staff, Students, and Administrators, offering functionalities such as course, subject, and
 session management, student attendance tracking, user profile updates, leave management, notification viewing, and
 exam result management
 
