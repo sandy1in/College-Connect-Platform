@@ -5,7 +5,7 @@
 session management, student attendance tracking, user profile updates, leave management, notification viewing, and
 exam result management
 
-![output1_cms](https://github.com/sandy1in/College-Management-System/assets/103809326/73660750-e03e-4316-ad2a-e5c52521e1a8)
+![login](https://github.com/sandy1in/College-Connect-Platform/blob/master/login.png)
 ## Admin Portal
 ![output2_cms](https://github.com/sandy1in/College-Management-System/assets/103809326/f098bf13-2030-4ac4-ac7f-2978e89e3c7e)
 ## Staff Portal
